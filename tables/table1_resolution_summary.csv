@@ -1,0 +1,3 @@
+Conflict Pair,Proposed: Resolution Rate,Proposed: Constraint-Violation Rate,Static Precedence: Constraint-Violation Rate,No Coordination: Constraint-Violation Rate
+MLB<->MRO,0.8027777777777778,0.19722222222222222,0.19722222222222222,0.44722222222222224
+CCO<->ESM,0.9772222222222222,0.02277777777777778,1.0,1.0

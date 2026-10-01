@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the NextGCom 2026 paper below."
+title: "SON Conflict Arbitration: Simulation Code (Submission Version)"
+type: software
+version: 1.0.0-submission
+date-released: 2026-10-01
+license: MIT
+authors:
+  - family-names: Maringanti
+    given-names: Srinivasa
+    orcid: "https://orcid.org/0009-0007-0990-6254"
+repository-code: "https://github.com/<your-username>/son-conflict-arbitration"
+preferred-citation:
+  type: conference-paper
+  title: "Multi-Agent Conflict Arbitration for Autonomous SON Functions in AI-RAN"
+  authors:
+    - family-names: Maringanti
+      given-names: Srinivasa
+    - family-names: Kundu
+      given-names: Tarun
+  collection-title: "Proceedings of NextGCom 2026"
+  year: 2026
